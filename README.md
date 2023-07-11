@@ -55,3 +55,5 @@ documentation.
 
 [active record validations]: https://guides.rubyonrails.org/active_record_validations.html
 [custom methods]: https://guides.rubyonrails.org/active_record_validations.html#custom-methods
+
+https://github.com/G3o-R/phase-4-active-record-validations-lab
